@@ -1,0 +1,50 @@
+.container {
+  width:90%;
+  margin: auto;
+  display: block;
+}
+
+.pokeCard {
+  width:15%;
+  display: inline-block;
+  margin: 2rem;
+  background-color:ghostwhite;
+  border-radius: 1rem;
+  text-align: center;
+}
+
+.electric {
+  border: solid 3px gold;
+}
+
+.normal {
+  border: solid 3px silver;
+}
+
+.bug {
+  border: solid 3px greenyellow;
+}
+
+.water {
+  border: solid 3px blue;
+}
+
+.fire {
+  border: solid 3px orangered;
+}
+
+.flying {
+  border: solid 3px brown;
+}
+
+.poison {
+  border: solid 3px magenta;
+}
+
+.pokeCardTitle {
+  color: darkblue;
+}
+
+.pokeCardText {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
